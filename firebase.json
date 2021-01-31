@@ -1,5 +1,5 @@
 "hosting": {
-  "public": ".", // <- Added
+  "public": "./", // <- Added
   "ignore": [
     "firebase.json",
     "**/.*",
